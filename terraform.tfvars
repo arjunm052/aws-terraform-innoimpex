@@ -91,9 +91,4 @@ node_group_tags = {
 
 #EKS Add Ons Config
 aws_alb_controller_version = "1.8.1"
-
-cluster_autoscaler_version = "9.43.2"
-
 ebs_csi_version = "v1.32.0-eksbuild.1"
-
-metrics_server_version = "3.12.2"
